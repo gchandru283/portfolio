@@ -1,7 +1,7 @@
 import Header from "./Components/Header";
 
 function App() {
-  const resumeUrl = process.env.PUBLIC_URL + '/files/Chandru.pdf';
+
   const driveLink = "https://drive.google.com/uc?id=1MPzsmegnK0Na9ZXuxbpapP8XAwxztNEC";
   return (
     <div className="bg-black h-screen">

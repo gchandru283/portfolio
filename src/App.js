@@ -7,7 +7,7 @@ function App() {
     <div className="bg-black h-screen">
       <Header/>
       <div className="text-white px-5 font-mono fixed w-full text-center">
-      Download my resume - <a className="text-blue-400" href={driveLink} target="_blank" rel="noreferrer noopener" download="your-file-name.pdf">here!!</a>
+      Download my resume - <a className="text-blue-400" href={driveLink} target="_blank" rel="noreferrer noopener" download="Chandru resume.pdf">here!!</a>
       </div>
     </div>
   );
